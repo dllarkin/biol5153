@@ -1,4 +1,1 @@
-Project started 2018-03-07
-This is an edit
-Extra
-This
+The folder containing homework assignments for BIOL_5153 are in the folder 'BIOL_5153' inside biol5153.
