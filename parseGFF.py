@@ -9,6 +9,8 @@
 #    split the line into a list 
 #    use begin and end coords to extract the sebseq from the genome
 #    print to screen
+# close the .gff file
+
 from BCBio import GFF
 from Bio import SeqIO
 
@@ -19,12 +21,13 @@ in_seq_handle.close()
 
 in_file = "watermelon.gff"
 in_handle = open(in_file)
-for rec in GFF.parse(in_handle, base_dict=seq_dict):
-    print rec
+for record in GFF.parse(in_handle, base_dict=seq_dict):
+    print(record)
 in_handle.close()
 
+# (species_name, type, begin, end) = line.split('\t')
 
-# close the .gff file
+
 
 
 
