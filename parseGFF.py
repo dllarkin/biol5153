@@ -11,22 +11,26 @@
 #    print to screen
 # close the .gff file
 
-# from BCBio import GFF
-# from Bio import SeqIO
 
-#in_seq_file = "watermelon.fsa"
-#in_seq_handle = open(in_seq_file)
-#seq_dict = SeqIO.to_dict(SeqIO.parse(in_seq_handle, "fasta"))
-#in_seq_handle.close()
+import argparse
+from Bio import SeqIO
 
-#in_file = "watermelon.gff"
-#in_handle = open(in_file)
-#for record in GFF.parse(in_handle, base_dict=seq_dict):
-#    print(record)
-#in_handle.close()
+# create an ArgumentParse object ('parser') that will hold all information necessary to parse the command line
+parser = argparse.ArgumentParser(description="This script filters out sequences from a FASTA file that are shorter than a user-specified length cutoff")
 
-# (species_name, type, begin, end) = line.split('\t')
+# use the add_argument() method to add a positional argument
+# positional arguments are *required* inputs, so their order/position matters
+# argparse treats all options as strings unless told to do otherwise
+parser.add_argument("fasta", help="name of FASTA file")
 
+# add an optional argument, the length cutoff for our filter
+parser.add_argument("-m", "--min_seq_length", help="filter sequences that are /  <= min_seq_length in length (default = 300 nt)", type=int, default=300)
+
+# parse the arguments
+args = parser.parse_args()
+
+print("We're gonna open this FASTA file:", args.fasta)
+print("filter sequences less than", args.min_seq_length, "nt in length")
 
 from Bio import SeqIO
 import csv
@@ -44,7 +48,4 @@ for line in gff:
 	print(">" + species + " | " + gene + genome.seq[start-1:end])
 gff.close()
 
-#for seq_record in SeqIO.parse("watermelon.fsa", "fasta"):
-#	print(seq_record.id)
-#	print(repr(seq_record.seq))
-#	print(len(seq_record))
+

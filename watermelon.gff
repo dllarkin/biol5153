@@ -1,0 +1,144 @@
+Citrullus lanatus	GenBank	CDS	1	726	726	+	.	Gene cox1 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	727	1693	967	+	.	Gene cox1 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	1694	2551	858	+	.	Gene cox1 exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	4258	7876	3619	+	.	Gene similar to chloroplast LSC region from ndhC-trnV spacer to atpB-rbcL spacer ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	5346	5418	73	+	.	Gene trnM(CAT)-cp ; Note anticodon:CAT, intact chloroplast-like trnM embedded within larger region of chloroplast DNA, possibly functional ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	11970	12424	455	+	.	Gene similar to chloroplast LSC region from psbD to psbC ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	21732	21962	231	+	.	Gene similar to chloroplast rbcL (LSC) ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	21963	22398	436	+	.	Gene similar to chloroplast IR region from rps12 to rps12-rps7 spacer ; COLOR black
+Citrullus lanatus	GenBank	CDS	29747	30628	882	+	.	Gene rpl2 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	30629	32108	1480	+	.	Gene rpl2 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	32109	32225	117	+	.	Gene rpl2 exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	32636	32914	279	+	.	Gene rps19-1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	32933	33006	74	+	.	Gene rps3 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	33007	34731	1725	+	.	Gene rps3 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	34732	36349	1618	+	.	Gene rps3 exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	36321	36731	411	+	.	Gene rpl16 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	42044	42817	774	-	.	Gene atp6 ; Note predicted C to U RNA editing creates start codon, predicted C to U RNA editing creates stop codon" /codon_start=1 /transl_except=(pos:complement(42815..42817),aa:Met) /transl_except=(pos:complement(42044..42046),aa:TERM) /product="ATPase subunit 6" /translation="MITPNSPLEQFAILPLIPMNIGNFYFSFTNPSLFMLLTLSLVLL LVHFVTKNGGGNSVPNAWQSLVELIYDFVPNLVNEQIGGLSGNVKQKFFPRISVTFTF SLFRNPQGMIPYSFTVTSHFLITLGLSFSLFIGITIVGFQRNGLHFLSFSLPAGVPLP LAPFLVLLELIPHCFRALSSGIRLFANMMAGHSSVKILSGSAWTMLCMNNLFYFIGDP GPLFIVLALTGLELGVAISQAHVSTISICIYLNDATNLH ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	repeat_region	42842	50127	7286	-	.	Gene inverted repeat ; COLOR grey47
+Citrullus lanatus	GenBank	CDS	43947	44231	285	-	.	Gene sdh3-1 ; Note stop codon not determined ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	tRNA	44457	44528	72	-	.	Gene trnQ(TTG)-1 ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	45547	45618	72	-	.	Gene trnG(GCC)-1 ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	50761	50833	73	-	.	Gene trnM(CAT)-cp ; COLOR red ; type exon
+Citrullus lanatus	GenBank	CDS	52680	53747	1068	+	.	Gene rps4 ; Note predicted C to U RNA editing creates start codon ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	54400	55017	618	+	.	Gene nad6 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	56333	56435	103	+	.	Gene similar to chloroplast LSC region from trnG-trnfM spacer to trnfM-rps14 spacer ; COLOR black
+Citrullus lanatus	GenBank	CDS	67125	67604	480	+	.	Gene atp8 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	68218	69015	798	+	.	Gene cox3 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	68943	69350	408	+	.	Gene sdh4 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	70073	70261	189	-	.	Gene nad2 exon 5 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	70262	71738	1477	-	.	Gene nad2 ; Note cis-spliced intron ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	71739	72310	572	-	.	Gene nad2 exon 4 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	72311	74592	2282	-	.	Gene nad2 ; Note cis-spliced intron ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	74593	74753	161	-	.	Gene nad2 exon 3 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	tRNA	75277	75359	83	-	.	Gene trnY(GTA) ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	76361	76432	72	-	.	Gene trnN(GTT)-cp ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	78204	78274	71	-	.	Gene trnC(GCA)-2 ; COLOR red ; type exon
+Citrullus lanatus	GenBank	CDS	86724	87080	357	+	.	Gene nad3 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	87129	87500	372	+	.	Gene rps12 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	88708	89407	700	+	.	Gene cox2 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	89408	91441	2034	+	.	Gene cox2 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	91442	91524	83	+	.	Gene cox2 exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	95666	95778	113	+	.	Gene similar to chloroplast psbC (LSC) ; COLOR black
+Citrullus lanatus	GenBank	CDS	96687	97073	387	+	.	Gene nad1 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	109439	109546	108	+	.	Gene atp6 fragment ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	110136	110264	129	+	.	Gene atp9 fragment ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	110906	111090	185	+	.	Gene similar to chloroplast rpoC2 ; COLOR black
+Citrullus lanatus	GenBank	CDS	112518	114047	1530	-	.	Gene atp1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	tRNA	121267	121339	73	-	.	Gene trnC(GCA)-1 ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	130201	130272	72	-	.	Gene trnE(TTC) ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	131226	131299	74	+	.	Gene trnH(GTG)-cp ; COLOR red ; type exon
+Citrullus lanatus	GenBank	misc_feature	132694	132946	253	+	.	Gene similar to chloroplast LSC region from rps14 to trnfM-rps14 spacer ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	139517	139550	34	-	.	Gene nad6 fragment ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	139716	143326	3611	+	.	Gene similar to chloroplast LSC region from trnL-trnL spacer to ndhC-trnV spacer ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	140379	140451	73	+	.	Gene trnF(GAA)-cp ; Note anticodon:GAA, intact chloroplast-like trnF embedded within larger region of chloroplast DNA, possibly functional ; COLOR black
+Citrullus lanatus	GenBank	rRNA	148378	151548	3171	+	.	Gene rrn26 ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	151918	151991	74	+	.	Gene trnfM(CAT) ; COLOR red ; type exon
+Citrullus lanatus	GenBank	misc_feature	152692	154871	2180	+	.	Gene similar to chloroplast LSC region from trnL-trnL spacer to rps4 ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	153988	154060	73	+	.	Gene trnC(ACA)-cp ; Note anticodon:ACA, intact chloroplast-like trnC embedded within larger region of chloroplast DNA, possibly functional ; COLOR black
+Citrullus lanatus	GenBank	tRNA	155601	155681	81	-	.	Gene trnI(CAT) ; COLOR red ; type exon
+Citrullus lanatus	GenBank	misc_feature	170166	171491	1326	+	.	Gene similar to chloroplast LSC region from psbM-trnD spacer to trnT-psbD spacer ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	170502	170575	74	-	.	Gene trnD(GTC)-cp ; Note anticodon:GTC, intact chloroplast-like trnD embedded within larger region of chloroplast DNA, possibly functional ; COLOR black
+Citrullus lanatus	GenBank	CDS	174366	174826	461	+	.	Gene nad4 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	174827	176229	1403	+	.	Gene nad4 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	176230	176744	515	+	.	Gene nad4 exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	176745	179828	3084	+	.	Gene nad4 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	179829	180251	423	+	.	Gene nad4 exon 3 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	180252	182961	2710	+	.	Gene nad4 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	182962	183050	89	+	.	Gene nad4 exon 4 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	183916	185776	1861	+	.	Gene similar to chloroplast IR region from rps7 to rps12-trnV spacer ; COLOR black
+Citrullus lanatus	GenBank	CDS	185935	186193	259	-	.	Gene nad1 exon 5 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	186194	189674	3481	-	.	Gene nad1 ; Note cis-spliced intron ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	187056	189062	2007	-	.	Gene matR ; Note start codon not determined ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	189675	189733	59	-	.	Gene nad1 exon 4 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	204424	206157	1734	+	.	Gene ccmFn ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	220862	221131	270	+	.	Gene similar to chloroplast LSC region from trnG-trnfM spacer to rps14 ; COLOR black
+Citrullus lanatus	GenBank	CDS	222046	222579	534	-	.	Gene rps1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	223354	223536	183	-	.	Gene cox2 fragment ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	223762	224140	379	+	.	Gene similar to chloroplast LSC region from psbA to trnH-psbA spacer ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	224184	224763	580	+	.	Gene similar to chloroplast LSC region from petG-trnW spacer to trnP-psaJ spacer ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	224257	224330	74	-	.	Gene trnW(CCA)-cp ; Note anticodon:CCA, intact chloroplast-like trnW embedded within larger region of chloroplast DNA, possibly functional ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	224476	224550	75	-	.	Gene trnP(TGG)-cp ; Note anticodon:TGG, intact chloroplast-like trnP embedded within larger region of chloroplast DNA, possibly functional ; COLOR black
+Citrullus lanatus	GenBank	tRNA	227590	227662	73	-	.	Gene trnK(TTT) ; COLOR red ; type exon
+Citrullus lanatus	GenBank	CDS	230173	230793	621	+	.	Gene ccmB ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	repeat_region	234336	241621	7286	+	.	Gene inverted repeat ; COLOR grey47
+Citrullus lanatus	GenBank	tRNA	238845	238916	72	+	.	Gene trnG(GCC)-2 ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	239935	240006	72	+	.	Gene trnQ(TTG)-2 ; COLOR red ; type exon
+Citrullus lanatus	GenBank	CDS	240232	240516	285	+	.	Gene sdh3-2 ; Note stop codon not determined ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	241646	242218	573	+	.	Gene nad9 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	242700	242924	225	+	.	Gene atp9 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	243221	243450	230	+	.	Gene nad5 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	243451	244298	848	+	.	Gene nad5 ; Note cis-spliced intron ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	244299	245514	1216	+	.	Gene nad5 exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	247269	248777	1509	+	.	Gene similar to chloroplast LSC region from rpoB-trnC spacer to rpoB ; COLOR black
+Citrullus lanatus	GenBank	CDS	265953	266502	550	-	.	Gene ccmFc exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	266503	267463	961	-	.	Gene ccmFc ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	267464	268230	767	-	.	Gene ccmFc exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	272807	272828	22	+	.	Gene nad5 exon 3 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	274065	274235	171	+	.	Gene atp9 fragment ; COLOR black
+Citrullus lanatus	GenBank	CDS	274340	274897	558	+	.	Gene rpl5 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	275820	276992	1173	+	.	Gene cob ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	279455	279901	447	+	.	Gene rps7 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	tRNA	286845	286919	75	-	.	Gene trnP(TGG) ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	287216	287289	74	-	.	Gene trnF(GAA) ; COLOR red ; type exon
+Citrullus lanatus	GenBank	tRNA	287653	287740	88	-	.	Gene trnS(GCT) ; COLOR red ; type exon
+Citrullus lanatus	GenBank	rRNA	306500	306618	119	-	.	Gene rrn5 ; COLOR red ; type exon
+Citrullus lanatus	GenBank	rRNA	307210	309067	1858	-	.	Gene rrn18 ; COLOR red ; type exon
+Citrullus lanatus	GenBank	misc_feature	311010	311217	208	+	.	Gene similar to chloroplast rpl32-trnL spacer (SSC) ; COLOR black
+Citrullus lanatus	GenBank	CDS	311224	312072	849	+	.	Gene mttB ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	321310	322800	1491	+	.	Gene similar to chloroplast IR/LSC region from rpl2 to trnH-psbA spacer ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	322701	322774	74	-	.	Gene trnH(GTG)-cp ; Note anticodon:GTG, intact chloroplast-like trnH embedded within larger region of chloroplast DNA, possibly functional ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	322811	326632	3822	+	.	Gene similar to chloroplast LSC region from atpF-atpH spacer to rpoC2 ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	330722	330778	57	+	.	Gene matR fragment ; COLOR black
+Citrullus lanatus	GenBank	CDS	330834	331184	351	+	.	Gene rps13 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	332075	332155	81	+	.	Gene nad1 exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	332156	333595	1440	+	.	Gene nad1 ; Note cis-spliced intron ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	333596	333787	192	+	.	Gene nad1 exon 3 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	335198	335317	120	+	.	Gene sdh3 fragment ; COLOR black
+Citrullus lanatus	GenBank	CDS	335932	336084	153	+	.	Gene nad2 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	336085	337300	1216	+	.	Gene nad2 ; Note cis-spliced intron ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	337301	337692	392	+	.	Gene nad2 exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	338630	338776	147	+	.	Gene similar to chloroplast ycf2 ; COLOR black
+Citrullus lanatus	GenBank	misc_feature	343912	343965	54	+	.	Gene rps19 fragment ; COLOR black
+Citrullus lanatus	GenBank	CDS	344866	345260	395	+	.	Gene nad5 exon 4 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	345261	346364	1104	+	.	Gene nad5 ; Note cis-spliced intron ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	346365	346502	138	+	.	Gene nad5 exon 5 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	348455	348716	262	-	.	Gene nad7 exon 5 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	348717	350530	1814	-	.	Gene nad7 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	350531	350774	244	-	.	Gene nad7 exon 4 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	350775	351835	1061	-	.	Gene nad7 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	351836	352302	467	-	.	Gene nad7 exon 3 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	352303	353940	1638	-	.	Gene nad7 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	353941	354009	69	-	.	Gene nad7 exon 2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	354010	354915	906	-	.	Gene nad7 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	354916	355058	143	-	.	Gene nad7 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	tRNA	358591	358677	87	-	.	Gene trnS(TGA) ; COLOR red ; type exon
+Citrullus lanatus	GenBank	misc_feature	362838	362923	86	-	.	Gene t-element for generation of 3' mRNA terminus of ccmC gene, see PubMed ID 17488843, similar to chloroplast-like trnI(TAT), with expanded anticodon loop ; COLOR black
+Citrullus lanatus	GenBank	CDS	362964	363662	699	-	.	Gene ccmC ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	365318	365914	597	-	.	Gene atp4 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	366130	366432	303	-	.	Gene nad4L ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	misc_feature	366675	366719	45	-	.	Gene sdh3 fragment ; COLOR black
+Citrullus lanatus	GenBank	CDS	376485	376763	279	+	.	Gene rps19-2 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	CDS	377834	378083	250	+	.	Gene rps10 exon 1 ; COLOR blue ; type exon
+Citrullus lanatus	GenBank	intron	378084	378928	845	+	.	Gene rps10 ; COLOR green ; type intron
+Citrullus lanatus	GenBank	CDS	378929	379011	83	+	.	Gene rps10 exon 2 ; COLOR blue ; type exon

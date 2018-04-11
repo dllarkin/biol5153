@@ -21,3 +21,12 @@ args = parser.parse_args()
 print("We're gonna open this FASTA file:", args.fasta)
 print("filter sequences less than", args.min_seq_length, "nt in length")
 
+from Bio import SeqIO
+
+genes = "watermelon_genes.fa"
+need = "filter_these.txt"
+output = "my_genes.fasta"
+
+my_seqs = [line.strip() for line in open(sys.argv[2])]
+seqiter = SeqIO.parse(open(sys.argv[1]), 'fasta')
+SeqIO.write((seq for seq in seqiter if seq.id in my_seqs), sys.stdout, "fasta")
