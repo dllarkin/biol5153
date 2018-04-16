@@ -21,12 +21,19 @@ args = parser.parse_args()
 print("We're gonna open this FASTA file:", args.fasta)
 print("filter sequences less than", args.min_seq_length, "nt in length")
 
-from Bio import SeqIO
 
-genes = "watermelon_genes.fa"
-need = "filter_these.txt"
-output = "my_genes.fasta"
+input_seqs = SeqIO.parse("watermelon_genes.fa", "fasta")
 
-my_seqs = [line.strip() for line in open(sys.argv[2])]
-seqiter = SeqIO.parse(open(sys.argv[1]), 'fasta')
-SeqIO.write((seq for seq in seqiter if seq.id in my_seqs), sys.stdout, "fasta")
+short_sequences = [record for record in input_seqs if len(record.seq) < 100]
+
+print("Found %i short sequences" % len(short_sequences))
+
+SeqIO.write(short_sequences, "short_seqs.fasta", "fasta")
+for record in SeqIO.parse("short_seqs.fasta", "fasta"):
+	print(record)
+
+
+
+
+
+
