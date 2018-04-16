@@ -24,14 +24,17 @@ print("filter sequences less than", args.min_seq_length, "nt in length")
 
 input_seqs = SeqIO.parse("watermelon_genes.fa", "fasta")
 
-short_sequences = [record for record in input_seqs if len(record.seq) < 100]
+short_sequences = [record for record in input_seqs if len(record.seq) < args.min_seq_length]
 
 print("Found %i short sequences" % len(short_sequences))
 
-SeqIO.write(short_sequences, "short_seqs.fasta", "fasta")
-for record in SeqIO.parse("short_seqs.fasta", "fasta"):
-	print(record)
 
+SeqIO.write(short_sequences, "short_seqs.fasta", "fasta")
+
+
+my_file = open("short_seqs.fasta")
+file_contents = my_file.read()
+print(file_contents)
 
 
 
