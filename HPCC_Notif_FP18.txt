@@ -1,0 +1,16 @@
+PBS Job Id: 3977970.sched
+Job Name:   2018_FP
+Exec host:  compute3010/15+compute3010/14+compute3010/13+compute3010/12+compute3010/11+compute3010/10+compute3010/9+compute3010/8+compute3010/7+compute3010/6+compute3010/5+compute3010/4+compute3010/3+compute3010/2+compute3010/1+compute3010/0
+Begun execution
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PBS Job Id: 3977970.sched
+Job Name:   2018_FP
+Exec host:  compute3010/15+compute3010/14+compute3010/13+compute3010/12+compute3010/11+compute3010/10+compute3010/9+compute3010/8+compute3010/7+compute3010/6+compute3010/5+compute3010/4+compute3010/3+compute3010/2+compute3010/1+compute3010/0
+Execution terminated
+Exit_status=0
+resources_used.cput=00:03:07
+resources_used.mem=11955140kb
+resources_used.vmem=12481196kb
+resources_used.walltime=00:03:10

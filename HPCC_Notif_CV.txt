@@ -1,0 +1,16 @@
+PBS Job Id: 3977962.sched
+Job Name:   Cross_Val
+Exec host:  compute3026/15+compute3026/14+compute3026/13+compute3026/12+compute3026/11+compute3026/10+compute3026/9+compute3026/8+compute3026/7+compute3026/6+compute3026/5+compute3026/4+compute3026/3+compute3026/2+compute3026/1+compute3026/0
+Begun execution
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PBS Job Id: 3977962.sched
+Job Name:   Cross_Val
+Exec host:  compute3026/15+compute3026/14+compute3026/13+compute3026/12+compute3026/11+compute3026/10+compute3026/9+compute3026/8+compute3026/7+compute3026/6+compute3026/5+compute3026/4+compute3026/3+compute3026/2+compute3026/1+compute3026/0
+Execution terminated
+Exit_status=0
+resources_used.cput=00:01:03
+resources_used.mem=941460kb
+resources_used.vmem=1438072kb
+resources_used.walltime=00:01:06

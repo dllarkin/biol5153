@@ -1,0 +1,18 @@
+#! /bin/bash 
+
+#PBS -N Cross_Val
+#PBS -q tiny16core
+#PBS -j oe
+#PBS -m abe
+#PBS -M dllarkin@uark.edu
+#PBS -o CV.$PBS_JOBID
+#PBS -l nodes=1:ppn=16
+#PBS -l walltime=00:02:00:00
+
+module load R/3.4.4 mkl/18.0.1
+
+
+cd $PBS_O_WORKDIR
+
+R --vanilla < CrossVal_ABB_remote.R
+
